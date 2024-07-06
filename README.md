@@ -14,7 +14,7 @@ Getting Started
 You need a web browser to run this calculator.
 
 # Installation
-#  1,Clone the repository:
+#  Clone the repository:
 git clone https://github.com/harsh98trivedi/Simple-JavaScript-Calculator.git
 Navigate to the project directory:
 cd Simple-JavaScript-Calculator
